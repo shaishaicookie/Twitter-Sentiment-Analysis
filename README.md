@@ -4,7 +4,8 @@
 * Naive Bayes
 * Logistic Regression
 * Multi-layer Perceptron
-* Neural Network (Kersa)
+* Random Forest
+* Support Vector Machine
 
 ## **Data Source**
 > kaggle competitions download -c comp90049-2021s2-assignment3
